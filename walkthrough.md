@@ -3,7 +3,7 @@
 This document outlines how to use the implemented Intrusion Detection System (IDS).
 
 ## 1. Project Setup Setup
-Ensure you are in the project root (`c:\SiS`) and have dependencies installed:
+Ensure you are in the project root directory and have dependencies installed:
 ```bash
 pip install -r requirements.txt
 ```
