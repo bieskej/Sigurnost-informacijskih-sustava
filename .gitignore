@@ -1,0 +1,23 @@
+# Data
+data/
+data/raw/
+data/processed/
+*.csv
+*.zip
+*.pcap
+
+# Results and Logs
+results/
+*.log
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+info/
